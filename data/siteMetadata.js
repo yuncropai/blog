@@ -1,13 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'geekskai',
-  author: 'Geeks Kai',
-  headerTitle: 'geekskai',
+  title: '天海心',
+  author: '天海心',
+  headerTitle: '天海心',
   description:
-    'A digital hub for web dev tools, tech insights, and sustainable living. Bridging Chinese and global tech perspectives through practical guides and thoughtful analysis.',
+    '吾辈初涉编程路，汝乃何方高士也？愿传技艺共砥砺，携手共攀知识峰。',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://geekskai.com',
+  siteUrl: 'https://baidu.com',
   siteRepo: 'https://github.com/geekskai/blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/geekskai-blog.png`,
@@ -16,9 +16,9 @@ const siteMetadata = {
   github: 'https://github.com/geekskai',
   x: 'https://twitter.com/GeeksKai',
   // twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://www.facebook.com/geekskai',
-  youtube: 'https://www.youtube.com/@kaigan-is6ym',
-  linkedin: 'https://www.linkedin.com/in/geekskai',
+  facebook: 'https://www.facebook.com/yun',
+  youtube: 'https://www.youtube.com/@yun',
+  linkedin: 'https://www.linkedin.com/in/yun',
   threads: 'https://www.threads.net',
   instagram: 'https://www.instagram.com',
   locale: 'en-US',
